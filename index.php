@@ -1,7 +1,6 @@
 <?php
  echo "string";
  echo "1234";
- echo "hhh";
 
 
- print "ccc";
+ echo "first changes update";
