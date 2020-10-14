@@ -9,3 +9,6 @@ echo "this is online edit by github account";
 
 
 print "close issue from local"
+
+print "closed #2 issue";
+?>
