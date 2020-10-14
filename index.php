@@ -3,7 +3,6 @@
  echo "1234";
  echo "hhh";
 
-
  print "ccc";
-
+// File closed
 ?>
